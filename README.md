@@ -1,6 +1,6 @@
 # SolrDemo
 
-**Start solr using docker and create,retrieve documents using Sprind Data Solr**
+**Start solr using docker and create,retrieve documents using Spring Data Solr**
 
 1. Start Docker in your machine.
 
