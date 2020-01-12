@@ -11,8 +11,8 @@
 	<groupId>com.apache.solr</groupId>
 	<artifactId>SolrDemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SolrTemplateDemo</name>
-	<description>Spring boot Solr with Template</description>
+	<name>SolrDemo</name>
+	<description>Spring boot Solr with Spring Solr Data</description>
 
 	<properties>
 		<java.version>11</java.version>

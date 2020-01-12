@@ -1,4 +1,4 @@
-# SolrDemo - SolrCrudRepository
+## SolrDemo - SolrCrudRepository
 
 **Start solr using docker and create,retrieve documents using Spring Data Solr**
 
@@ -12,7 +12,7 @@
     
     b) To create a solr_core named "Student"
   ```bash
-      docker run --name docker_solr_1 -d -p 8983:8983 -t solr
+      docker run --name docker_solr_1 -d -p 8983:8983 -t solr:7.6
       docker exec -it --user=solr docker_solr_1 bin/solr create_core -c Student
   ```
 3. If you want to make use of docker-compose.yml file, go to the path:
