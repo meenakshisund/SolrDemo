@@ -1,4 +1,4 @@
-# SolrDemo
+# SolrDemo - SolrCrudRepository
 
 **Start solr using docker and create,retrieve documents using Spring Data Solr**
 
