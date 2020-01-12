@@ -39,3 +39,7 @@ To create a solr_core named "Student"
 }
 ```
 5. You can view the indexed data under "Student" core - http://localhost:8983/solr
+
+
+References:
+	1. https://lucidworks.com/post/solr-on-docker-2/
